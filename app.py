@@ -141,5 +141,4 @@ if st.button("Generate Report & Chart", type="primary", use_container_width=True
 # 7. Rodapé Visual (UI)
 st.divider()
 st.caption("© JBI, 2020. All rights reserved. JBI grants use of these tools for research purposes only.")
-st.caption("Shortland DL, et al. BMJ Open 2024; 14:e076904. doi: 10.1136/bmjopen-2023-076904")
 st.caption("Barker, T. H., Hasanoff, S., Aromataris, E., Stone, J. C., Leonardi-Bee, J., Sears, K., Klugar, M., Tufanaru, C., Moola, S., Liu, X.-L., & Munn, Z. (2026). The revised JBI critical appraisal tool for the assessment of risk of bias for analytical cross-sectional studies. JBI Evidence Synthesis, 24(3), 401–408. https://doi.org/10.11124/JBIES-24-00523")
